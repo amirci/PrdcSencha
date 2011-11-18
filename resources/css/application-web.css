@@ -33,6 +33,7 @@ div#ext-component-3 {
 .details{
 	 	text-align:justify ;
 		margin: 6px 12px 6px 6px;
+		border:1px solid red;
 		
 }
 
@@ -59,10 +60,9 @@ div#ext-component-3 {
 	float:left;
 	margin: 2px;
  }
+
 .details img {
 	float:left;
-	width:64px;
-	height:80px;
 	margin-right: 5px;
 	margin-bottom: 3px;
 }
@@ -89,6 +89,6 @@ div#ext-component-3 {
 	float:left;
 	margin: 2px;
 	width:64px;
-	Heigh:86px;
+	height:86px;
  }
  
